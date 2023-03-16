@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/goit-react-hw-react-routing-lazy/static/css/main.afbf81f0.css",
-    "main.js": "/goit-react-hw-react-routing-lazy/static/js/main.185acf4f.js",
+    "main.js": "/goit-react-hw-react-routing-lazy/static/js/main.03ddf573.js",
     "static/js/175.a11d2b12.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/175.a11d2b12.chunk.js",
     "static/js/415.1cc32876.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/415.1cc32876.chunk.js",
     "static/js/651.dc2a44d5.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/651.dc2a44d5.chunk.js",
-    "static/js/199.2a45fa47.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/199.2a45fa47.chunk.js",
+    "static/js/199.c4f40f69.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/199.c4f40f69.chunk.js",
     "static/js/939.bc2617b6.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/939.bc2617b6.chunk.js",
     "static/js/681.72d31e66.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/681.72d31e66.chunk.js",
     "static/js/229.813f5585.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/229.813f5585.chunk.js",
     "static/js/128.10ebac35.chunk.js": "/goit-react-hw-react-routing-lazy/static/js/128.10ebac35.chunk.js",
     "index.html": "/goit-react-hw-react-routing-lazy/index.html",
     "main.afbf81f0.css.map": "/goit-react-hw-react-routing-lazy/static/css/main.afbf81f0.css.map",
-    "main.185acf4f.js.map": "/goit-react-hw-react-routing-lazy/static/js/main.185acf4f.js.map",
+    "main.03ddf573.js.map": "/goit-react-hw-react-routing-lazy/static/js/main.03ddf573.js.map",
     "175.a11d2b12.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/175.a11d2b12.chunk.js.map",
     "415.1cc32876.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/415.1cc32876.chunk.js.map",
     "651.dc2a44d5.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/651.dc2a44d5.chunk.js.map",
-    "199.2a45fa47.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/199.2a45fa47.chunk.js.map",
+    "199.c4f40f69.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/199.c4f40f69.chunk.js.map",
     "939.bc2617b6.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/939.bc2617b6.chunk.js.map",
     "681.72d31e66.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/681.72d31e66.chunk.js.map",
     "229.813f5585.chunk.js.map": "/goit-react-hw-react-routing-lazy/static/js/229.813f5585.chunk.js.map",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.afbf81f0.css",
-    "static/js/main.185acf4f.js"
+    "static/js/main.03ddf573.js"
   ]
 }
