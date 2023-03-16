@@ -2,7 +2,7 @@
   "name": "goit-react-hw-react-routing-lazy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://katefanina.github.io/goit-react-hw-react-routing-lazy",
+  "homepage": "https://katefanina.github.io/goit-react-hw-react-routing-lazy/#",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
